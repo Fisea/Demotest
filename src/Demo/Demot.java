@@ -12,6 +12,8 @@ public class Demot {
         String s = getStringCount(str);
 
         System.out.println(s);
+
+        System.out.println("这是修修改！！！");
     }
 
     private static String getStringCount(String str) {
